@@ -1,4 +1,4 @@
-name: Deploy website
+name: Pratice-workflow-outputs-and artifacts
 on:
   workflow_dispatch:
 jobs:
